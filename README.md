@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate web developer from Indonesia</h3>
+<h2 align="center">A passionate web developer from Indonesia</h2>
 
 ###
 
@@ -56,7 +56,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
 </div>
 
 ###
