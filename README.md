@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Web developer</h2>
+<h3 align="center">A passionate web developer from Indonesia</h3>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Tech Stack:</h3>
 
 ###
 
@@ -55,6 +55,8 @@
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
 </div>
 
 ###
