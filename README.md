@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Javascript & Typescript</p>
+<p align="left">🌱 I’m currently learning Typescript</p>
 
 ###
 
