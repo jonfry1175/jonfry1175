@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Typescript & Vue.js</p>
+<p align="left">🌱 I’m currently learning Typescript,Vue.js & TailwindCSS</p>
 
 ###
 
