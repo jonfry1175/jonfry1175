@@ -12,11 +12,11 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Typescript & TailwindCSS</p>
+<p align="left">🌱 I’m currently learning deployment & IOT</p>
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media</h3>
 
 ###
 
@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -54,10 +54,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" /> 
+  <img src="https://cdn.simpleicons.org/websocket/black" height="30" alt="websocket logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
   <img width="12" />
- 
 </div>
 
 ###
