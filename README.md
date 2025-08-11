@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="center">A passionate software engineer from Indonesia</h2>
+<h2 align="center">Software engineer from Indonesia</h2>
 
 ###
 
