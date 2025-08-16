@@ -40,24 +40,6 @@
 ###
 
 <div align="left">
-  <picture title="HTML5 - Markup Language for Web Development">
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark">
-    <img src="https://skillicons.dev/icons?i=html&theme=light" height="30" alt="html5 logo" title="HTML5 - Markup Language for Web Development" />
-  </picture>
-  <img width="12" />
-  
-  <picture title="CSS3 - Styling Language for Web Design">
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=dark">
-    <img src="https://skillicons.dev/icons?i=css&theme=light" height="30" alt="css3 logo" title="CSS3 - Styling Language for Web Design" />
-  </picture>
-  <img width="12" />
-  
-  <picture title="Bootstrap - CSS Framework for Responsive Design">
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bootstrap&theme=dark">
-    <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" height="30" alt="bootstrap logo" title="Bootstrap - CSS Framework for Responsive Design" />
-  </picture>
-  <img width="12" />
-  
   <picture title="JavaScript - Programming Language for Web Development">
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark">
     <img src="https://skillicons.dev/icons?i=js&theme=light" height="30" alt="javascript logo" title="JavaScript - Programming Language for Web Development" />
