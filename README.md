@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently learning deployment & IOT</p>
+<p align="left">🌱 I'm currently learning devops</p>
 
 ###
 
