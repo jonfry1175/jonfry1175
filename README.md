@@ -1,10 +1,4 @@
-Berikut adalah kode README yang sudah diperbarui dengan menghapus bagian **Skills** dan mengubah teks header dari "Software engineer from Indonesia" menjadi "from Indonesia" (menghapus kata "Software engineer"):
-```html
 <h1 align="center">Hi 👋, I'm Jonfry</h1>
-
-###
-
-<h2 align="center">from Indonesia</h2>
 
 ###
 
@@ -32,5 +26,3 @@ Berikut adalah kode README yang sudah diperbarui dengan menghapus bagian **Skill
 </div>
 
 ###
-
-```
